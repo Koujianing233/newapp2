@@ -1,8 +1,7 @@
-streamlit
-vega-datasets
-altair
-pandas
-sklearn
-matplotlib
-keras==2.3.1
-tensorflow
+numpy==1.21.0
+opencv_contrib_python==4.4.0.46
+tensorflow==2.5.2
+pandas==1.1.4
+streamlit==0.71.0
+Pillow==9.0.0
+h5py==2.10.0
